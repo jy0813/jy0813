@@ -2,7 +2,7 @@
 <div align="center">
 	<div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
 	<h3>👋 Welcome to my world!</h2>
-      	<p>📂 Blog | <a href="https://velog.io/@babypig" target="_blank">Velog</a></p>
+      	<p> <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=fff"/> | <a href="https://velog.io/@babypig" target="_blank">Velog</a></p>
 </div>
 
 <div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
