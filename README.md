@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=JaeYun's%20Github&fontSize=30&fontAlignY=30)
 <div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
 	<h3>👋 Welcome to my world!</h2>
-  	📂 Blog | [Velog](https://velog.io/@babypig)
+      	<p>📂 Blog | <a href="https://velog.io/@babypig">Velog</a></p>
 </div>
 
 <div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
