@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=JaeYun's%20Github&fontSize=30&fontAlignY=30)
-<div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
+<div align="center">
+	<div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
 	<h3>👋 Welcome to my world!</h2>
       	<p>📂 Blog | <a href="https://velog.io/@babypig">Velog</a></p>
 </div>
@@ -23,4 +24,5 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   </div><br/>
+</div>
 </div>
