@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=JaeYun's%20Github&fontSize=30&fontAlignY=30)
 <div align="center">
-	<div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
+	<div style="display: flex; flex-direction: column; justify-content:center; align-items:center; margin-bottom:10px;">
 	<h3>👋 Welcome to my world!</h2>
       	<p>📂 Blog | <a href="https://velog.io/@babypig" target="_blank">Velog</a></p>
 </div>
+	<hr/>
 
-<div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
+<div style="display: flex; flex-direction: column; justify-content:center; align-items:center; margin-top: 10px;">
 	<h3>💻 Skills</h3>
 	<br/>
   <div style="display: flex; justify-content:center; gap: 5px; margin-bottom: 10px;">
