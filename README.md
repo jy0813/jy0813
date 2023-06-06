@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=JaeYun's%20Github&fontSize=30&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Jaeyun's%20Github&fontSize=30&fontAlignY=30)
 <div align="center">
 	<div style="display: flex; flex-direction: column; justify-content:center; align-items:center; margin-bottom:10px;">
 	<h3>👋 Welcome to my world!</h2>
